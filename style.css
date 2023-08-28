@@ -1,0 +1,95 @@
+header h1{
+  padding-left:105px;
+}
+.section{
+border: 3px solid grey;
+margin: 10px 100px;
+padding: 5px;
+
+}
+.itemColor{
+  display:inline-block;
+  width:32%;
+  border: 1px solid black;
+  text-align:center;
+  margin:25px 1px;
+}
+.coolBlue{
+  background-color: #7492B9;
+  color: white;
+}
+.turquise{
+ background-color:#30D5C8;
+ color:black;
+}
+.pink{
+background-color:#FFB6C1;
+color:black;
+}
+.darkGreen{
+background-color:#154734;
+color:white;
+}
+.bloodOrange{
+background-color:#BC3823;
+color:white;
+}
+.yellow{
+background-color:#FFFF00;
+color:black;
+}
+.black{
+  background-color:#000000;
+  color:white;
+}
+.red{
+  background-color:#FF0000;
+  color:white;
+}
+.brown{
+  background-color:#734F46;
+  color:white;
+}
+h3{
+  text-decoration:underline;
+}
+.font{
+  display:inline-block;
+  width:49%;
+}
+.normal{
+  font-weight:normal;
+}
+.solid{
+  font-weight:bold;
+}
+.italian{
+  font-style:italic;
+}
+.SourceCodePro{
+  font-family: 'Source Code Pro', monospace;
+}
+.NunitoSans{
+font-family: 'Nunito Sans', sans-serif;
+}
+.Poppins{
+font-family: 'Poppins', sans-serif;
+}
+.BlackOpsOne{
+font-family: 'Black Ops One', cursive;
+}
+.text1{
+  font-weight:700;
+  font-size:26px;
+  font-family: 'Nunito Sans', sans-serif;
+}
+.text2{
+  font-weight:500;
+  font-size:18px;
+  font-family: 'Poppins', sans-serif;
+}
+.text3{
+  font-weight:400;
+  font-size:14px;
+  font-family: 'Poppins', sans-serif;
+}
